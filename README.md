@@ -3,7 +3,8 @@ A Popular Global Retail Chain dataset which is available on Kaggle [Dataset spec
 has been used to analyse customer segmentation on the basis of customer transactions and behavior aspects. 
 As this dataset is so popular that all the tables from different sources are merged into one dataset. It comprises of 4 tables: (a) Orders Table, (b) Customers Table, (C) Products Table, (d) Sales Table.
 
-When conducting customer segmentation using K-means or PCA clustering technique, it's important to choose the right features (columns) that reflect customer behavior and characteristics. Here are the column considerations for feature selection and data preprocessing from that big dataset which reflects the customer segmentation based on there transactions and behavior:
+When conducting customer segmentation using K-means or PCA clustering technique ![Segmentation](C:\Users\panka\OneDrive\Desktop\Class Folder\Github\Retail_Store_Customer_Segmentation\Image)
+, it's important to choose the right features (columns) that reflect customer behavior and characteristics. Here are the column considerations for feature selection and data preprocessing from that big dataset which reflects the customer segmentation based on there transactions and behavior:
 Feature Selection:
 Customer-related features: Focus on features that describe customer behavior and attributes. Relevant columns include 'customer_id'.
 Sales-related features: Columns like 'sales,' 'quantity,' 'discount,' 'profit,' 'shipping_cost,' and 'order_priority' can provide insights into customer purchase behavior, profitability, and preferences.
